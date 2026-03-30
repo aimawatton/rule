@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,emby
   - IP-CIDR,103.177.137.228/24,no-resolve
+  - DOMAIN-SUFFIX,music.mefun.org
   - DOMAIN-SUFFIX,emby.yzt.lol
   - DOMAIN-SUFFIX,emby.zhousanwan.xyz
   - DOMAIN-SUFFIX,hxd.as174.de
