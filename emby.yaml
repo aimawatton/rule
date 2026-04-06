@@ -11,4 +11,5 @@ payload:
   - DOMAIN-SUFFIX,precdns.cn2gias.uk
   - DOMAIN-SUFFIX,server3.cn2gias.uk
   - DOMAIN-SUFFIX,s3.array2026.com
+  - DOMAIN-SUFFIX,public.shrekmedia.org
   - PROCESS-NAME,com.mb.android
