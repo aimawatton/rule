@@ -13,4 +13,5 @@ payload:
   - DOMAIN-SUFFIX,s3.array2026.com
   - DOMAIN-SUFFIX,public.shrekmedia.org
   - DOMAIN-SUFFIX,cf.xmsl.org
+  - DOMAIN-SUFFIX,cf.imetyou.top
   - PROCESS-NAME,com.mb.android
