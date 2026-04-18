@@ -1,17 +1,30 @@
 payload:
   - DOMAIN-KEYWORD,emby
   - IP-CIDR,103.177.137.228/24,no-resolve
-  - DOMAIN-SUFFIX,music.mefun.org
-  - DOMAIN-SUFFIX,emby.yzt.lol
-  - DOMAIN-SUFFIX,emby.zhousanwan.xyz
-  - DOMAIN-SUFFIX,hxd.as174.de
-  - DOMAIN-SUFFIX,st.stentvessel.xyz
-  - DOMAIN-SUFFIX,media.nijigem.by
+  - DOMAIN-SUFFIX,link00.okemby.org
+  - DOMAIN-SUFFIX,link01.okemby.org
   - DOMAIN-SUFFIX,pe.cn2gias.uk
   - DOMAIN-SUFFIX,precdns.cn2gias.uk
   - DOMAIN-SUFFIX,server3.cn2gias.uk
   - DOMAIN-SUFFIX,s3.array2026.com
+  - DOMAIN-SUFFIX,cf.newneeship.com
+  - DOMAIN-SUFFIX,jp.fc.newneeship.com
   - DOMAIN-SUFFIX,public.shrekmedia.org
+  - DOMAIN-SUFFIX,emby.zhousanwan.xyz
+  - DOMAIN-SUFFIX,emby.yzt.lol
+  - DOMAIN-SUFFIX,st.stentvessel.xyz
+  - DOMAIN-SUFFIX,hxd.as174.de
+  - DOMAIN-SUFFIX,media.nijigem.by
+  - DOMAIN-SUFFIX,default.cdn.bgp.yt
+  - DOMAIN-SUFFIX,cm.cdn.bgp.yt
+  - DOMAIN-SUFFIX,ct.cdn.bgp.yt
+  - DOMAIN-SUFFIX,cu.cdn.bgp.yt
+  - DOMAIN-SUFFIX,emby.bangumi.ca
+  - DOMAIN-SUFFIX,ap-cn01.emby.bangumi.ca
+  - DOMAIN-SUFFIX,ap-cn02.emby.bangumi.ca
   - DOMAIN-SUFFIX,cf.xmsl.org
   - DOMAIN-SUFFIX,cf.imetyou.top
+  - DOMAIN-SUFFIX,yuanshen.help
+  - DOMAIN-SUFFIX,ciallo.party
+  - DOMAIN-SUFFIX,hka-emby.aliz.work
   - PROCESS-NAME,com.mb.android
