@@ -27,4 +27,7 @@ payload:
   - DOMAIN-SUFFIX,yuanshen.help
   - DOMAIN-SUFFIX,ciallo.party
   - DOMAIN-SUFFIX,hka-emby.aliz.work
+  - DOMAIN-SUFFIX,music.mefun.org
+  - DOMAIN-SUFFIX,yinhai.aiinyue.com
+  - DOMAIN-SUFFIX,music.echoflix.de
   - PROCESS-NAME,com.mb.android
